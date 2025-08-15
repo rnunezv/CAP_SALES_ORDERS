@@ -1,0 +1,12 @@
+{
+    "requeries": {
+        "[dev]": {
+            "db": {
+                "kind": "sqlite",
+                "credentials": {
+                    "url": "sales.sqlite"
+                }
+            }
+        }
+    }
+}
