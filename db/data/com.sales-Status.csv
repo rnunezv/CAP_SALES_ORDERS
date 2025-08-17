@@ -1,0 +1,4 @@
+code,name,descr,criticality
+Delivered,Delivered,The order was delivered,3
+InProgress,In Progress,The order is in progress,2
+Received,Received,The order was received,1

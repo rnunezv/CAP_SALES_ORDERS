@@ -2,7 +2,8 @@ namespace com.sales;
 
 using {
     cuid,
-    managed
+    managed,
+    sap.common.CodeList
 } from '@sap/cds/common';
 
 
@@ -14,9 +15,9 @@ entity Header : cuid, managed {
     FirstName    : String(30);
     LastName     : String(30);
     Country      : String(30);
-    Creation     : Date;
+    CreateOn     : Date;
     DeliveryDate : DateTime;
-    OrderStatus  : Integer;
+    OrderStatus  : Association to Status;
     ImageUrl     : String;
     toItem       : Composition of many Items
                        on toItem.Header = $self;
@@ -33,6 +34,21 @@ entity Items : cuid {
     Width            : Decimal(13, 3);
     Depth            : Decimal(12, 2);
     Quantity         : Decimal(16, 2);
-    UnitOfMeasure    : String(5);
+    UnitOfMeasure    : String(5) default 'CM';
     Header           : Composition of Header;
+};
+
+
+
+/* criticatily */
+// 1 = Rojo
+// 2 = Amarillo
+// 3 = Verde
+entity Status : CodeList {
+    key code        : String(20) enum {
+            Received = 'Received';
+            InProgress = 'In Progress';
+            Delivered = 'Delivered';
+        };
+        criticality : Int16;
 };
