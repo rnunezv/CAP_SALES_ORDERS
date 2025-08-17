@@ -13,11 +13,10 @@ annotate sales.Header with {
 
 
 annotate sales.Header with {
-
     OrderStatus @Common: {
         Text           : OrderStatus.name,
         TextArrangement: #TextOnly,
-    };
+    }
 };
 
 
@@ -150,8 +149,8 @@ annotate sales.Header with @(
                 Value: DeliveryDate,
             },
             {
-                $Type: 'UI.DataField',
-                Value: OrderStatus_code,
+                $Type      : 'UI.DataField',
+                Value      : OrderStatus_code,
                 Criticality: OrderStatus.criticality
             },
             {

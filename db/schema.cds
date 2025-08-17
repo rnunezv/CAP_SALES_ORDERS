@@ -17,7 +17,7 @@ entity Header : cuid, managed {
     Country      : String(30);
     CreateOn     : Date;
     DeliveryDate : DateTime;
-    OrderStatus  : Association to Status;
+    OrderStatus  : Association to OrderStatus;
     ImageUrl     : String;
     toItem       : Composition of many Items
                        on toItem.Header = $self;
@@ -35,6 +35,7 @@ entity Items : cuid {
     Depth            : Decimal(12, 2);
     Quantity         : Decimal(16, 2);
     UnitOfMeasure    : String(5) default 'CM';
+    Currency         : String(3) default 'USD';
     Header           : Composition of Header;
 };
 
@@ -44,7 +45,7 @@ entity Items : cuid {
 // 1 = Rojo
 // 2 = Amarillo
 // 3 = Verde
-entity Status : CodeList {
+entity OrderStatus : CodeList {
     key code        : String(20) enum {
             Received = 'Received';
             InProgress = 'In Progress';

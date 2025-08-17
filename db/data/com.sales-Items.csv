@@ -1,17 +1,17 @@
 ID,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,Header_ID
-440112ef-8715-4406-9e08-7a045c7f0d12,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,54244d10-5450-4fa3-b157-20f57943c812
-1a28b0f3-bde0-4a1f-88b9-06ec4124e6fa,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,54244d10-5450-4fa3-b157-20f57943c812
-e595fd9b-94f0-461c-b963-6178e56f6084,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,54244d10-5450-4fa3-b157-20f57943c812
-224161f6-337c-4420-b035-9be639f45c2f,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,740fc1ac-523a-4b2d-91cb-fc6f21833d6d
-0b8ed014-03d1-4296-887e-1638ea31347d,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,740fc1ac-523a-4b2d-91cb-fc6f21833d6d
-4697a0d8-98f5-4165-b355-8aea048f09f3,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,740fc1ac-523a-4b2d-91cb-fc6f21833d6d
-be439af3-1ce8-42c4-9287-cda8282bcbe2,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,740fc1ac-523a-4b2d-91cb-fc6f21833d6d
-40877b19-a207-4013-99fd-ef0a203f7e24,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,c51c97f1-c98f-4f05-987f-8da22ed885bc
-0fdbd9aa-1786-4589-b5c7-537f0c2dcae8,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,c51c97f1-c98f-4f05-987f-8da22ed885bc
-43540c4e-ee67-4a12-8727-beca248fdbae,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,05d5d225-e6e9-49b0-a339-de815cb71ed3
-400566df-0e5a-4717-b05a-a646b22ba23f,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,05d5d225-e6e9-49b0-a339-de815cb71ed3
-13769cb8-162f-4eab-91f7-49df4b311f12,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,05d5d225-e6e9-49b0-a339-de815cb71ed3
-a70af80c-d824-48bf-b623-97f99760862c,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,1f01b152-ff5b-478e-a4bd-8c4137acdcc4
-44fdc481-dafd-4e1c-ba41-5d9fab9f5d34,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,1f01b152-ff5b-478e-a4bd-8c4137acdcc4
-51ee9acd-a07c-4ad0-aae7-59950e092e50,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,1f01b152-ff5b-478e-a4bd-8c4137acdcc4
-b2282497-5ac9-4e44-a166-6f54458cbfe6,Name,Description,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMeasure,1f01b152-ff5b-478e-a4bd-8c4137acdcc4
+440112ef-8715-4406-9e08-7a045c7f0d12,iPhone 13 Pro Max,Apple iPhone 13 Pro Max with 128GB storage and A15 Bionic chip,2022-05-01,2025-12-01,700,56.122,37.984 ,116.755,1,CM,54244d10-5450-4fa3-b157-20f57943c812
+1a28b0f3-bde0-4a1f-88b9-06ec4124e6fa,LG OLED 75",75-inch 4K Smart TV with AI ThinQ,2023-03-01,2026-06-30,900,72.364,151.265,64.226 ,1,CM,54244d10-5450-4fa3-b157-20f57943c812
+e595fd9b-94f0-461c-b963-6178e56f6084,MacBook Pro M2,Apple MacBook Pro 16" M2 Chip with Retina display,2022-06-01,2025-12-31,1500,57.701,164.326,51.199,1,CM,54244d10-5450-4fa3-b157-20f57943c812
+224161f6-337c-4420-b035-9be639f45c2f,Amazon Fire HD 8,8-inch HD Tablet with Alexa integration,2024-07-01,2027-01-31,300,52.523,169.39 ,25.604,1,CM,740fc1ac-523a-4b2d-91cb-fc6f21833d6d
+0b8ed014-03d1-4296-887e-1638ea31347d,Leather Sofa,Modern 3-seater leather sofa in charcoal grey,2025-01-02,2028-01-31,1200,28.645,108.572,108.431,1,CM,740fc1ac-523a-4b2d-91cb-fc6f21833d6d
+4697a0d8-98f5-4165-b355-8aea048f09f3,Dining Table Set,Wooden dining table with 6 chairs,2025-04-01,2027-05-31,750,33.539,96.264 ,18.741,1,CM,740fc1ac-523a-4b2d-91cb-fc6f21833d6d
+be439af3-1ce8-42c4-9287-cda8282bcbe2,Recliner Chair,Recliner chair with lumbar support,2024-11-01,2027-12-31,800,75.122,154.661,103.34,1,CM,740fc1ac-523a-4b2d-91cb-fc6f21833d6d
+40877b19-a207-4013-99fd-ef0a203f7e24,Family Bed,King size wooden bed with drawers,2025-03-01,2026-12-31,1100,65.668,75.108 ,26.025,1,CM,c51c97f1-c98f-4f05-987f-8da22ed885bc
+0fdbd9aa-1786-4589-b5c7-537f0c2dcae8,Harry Potter Box Set,7 Book complete edition in hardcover,2023-07-01,2026-12-31,250,77.435,66.106 ,100.31,1,CM,c51c97f1-c98f-4f05-987f-8da22ed885bc
+43540c4e-ee67-4a12-8727-beca248fdbae,Sapiens,Non-fiction bestseller by Yuval Noah Harari,2023-06-01,2017-06-30,75,75.895,106.639,117.684,1,CM,05d5d225-e6e9-49b0-a339-de815cb71ed3
+400566df-0e5a-4717-b05a-a646b22ba23f,Nike Air Max Junior,Sports shoes for kids aged 6–12,2023-03-01,2026-07-31,90,22.781,138.041,21.951,1,CM,05d5d225-e6e9-49b0-a339-de815cb71ed3
+13769cb8-162f-4eab-91f7-49df4b311f12,Zara Winter Jacket,Women's winter padded jacket with hood,2025-02-01,2025-11-30,150,13.096,43.076 ,60.313,1,CM,05d5d225-e6e9-49b0-a339-de815cb71ed3
+a70af80c-d824-48bf-b623-97f99760862c,LG OLED 75",75-inch 4K Smart TV with AI ThinQ,2023-03-01,2026-06-30,900,72.364,151.265,64.226,1,CM,1f01b152-ff5b-478e-a4bd-8c4137acdcc4
+44fdc481-dafd-4e1c-ba41-5d9fab9f5d34,Amazon Fire HD 8,8-inch HD Tablet with Alexa integration,2024-07-01,2027-01-31,300,52.523,169.39 ,25.604,1,CM,1f01b152-ff5b-478e-a4bd-8c4137acdcc4
+51ee9acd-a07c-4ad0-aae7-59950e092e50,iPhone 13 Pro Max,Apple iPhone 13 Pro Max with 128GB storage and A15 Bionic chip,2022-05-01,2025-12-01,700,56.122,37.984 ,116.755,1,CM,1f01b152-ff5b-478e-a4bd-8c4137acdcc4
+b2282497-5ac9-4e44-a166-6f54458cbfe6,Nike Air Max Junior,Sports shoes for kids aged 6–12,2023-03-01,2026-07-31,90,22.781,138.041,21.951,1,CM,1f01b152-ff5b-478e-a4bd-8c4137acdcc4
